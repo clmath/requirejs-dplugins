@@ -1,3 +1,6 @@
 {
-	"directory": ".."
+	"directory": "..",
+	"scripts": {
+		"postinstall": "npm install"
+	}
 }
